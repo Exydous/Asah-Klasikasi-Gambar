@@ -1,0 +1,40 @@
+Apple 10
+Apple 11
+Apple 12
+Apple 13
+Apple 14
+Apple 17
+Apple 18
+Apple 19
+Apple 5
+Apple 6
+Apple 7
+Apple 8
+Apple 9
+Apple Braeburn 1
+Apple Core 1
+Apple Crimson Snow 1
+Apple Golden 1
+Apple Golden 2
+Apple Golden 3
+Apple Granny Smith 1
+Apple Pink Lady 1
+Apple Red 1
+Apple Red 2
+Apple Red 3
+Apple Red Delicious 1
+Apple Red Yellow 1
+Apple Red Yellow 2
+Apple Rotten 1
+Apple hit 1
+Apple worm 1
+Apricot 1
+Avocado 1
+Avocado Black 1
+Avocado Black 2
+Avocado Green 1
+Avocado ripe 1
+Banana 1
+Banana 3
+Banana 4
+Banana Lady Finger 1
